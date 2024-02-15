@@ -20,6 +20,6 @@
 </h1>
 
 <div align="center">
-  <img src="https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr" width="600" height="300"/>
+  <img src="https://www.shutterstock.com/image-vector/technology-software-development-web-design-programming-2320104951" width="600" height="300"/>
 </div>
 
