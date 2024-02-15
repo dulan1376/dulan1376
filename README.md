@@ -28,7 +28,7 @@ I am an aspiring Software Engineer <img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time, I solve problems on Leetcode and gain certificate on Coursera.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/dylan-thomas-matocinos-bba6ba267/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-thomas-matocinos-bba6ba267/)
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
