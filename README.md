@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThpb3pwZ2dkMjc0enI3aWdjdXA4MXhmeTVwbHpybjRuaWJqMDgyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThpb3pwZ2dkMjc0enI3aWdjdXA4MXhmeTVwbHpybjRuaWJqMDgyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="200" height="auto"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/dylan-thomas-matocinos-bba6ba267/">
