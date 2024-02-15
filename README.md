@@ -9,5 +9,5 @@
   <a href="https://web.facebook.com/dylan.mazing?_rdc=1&_rdr">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
- 
+ <img src="https://komarev.com/ghpvc/?username=your-github-dulan1376&style=flat-square&color=blue" alt=""/>
 </div>
