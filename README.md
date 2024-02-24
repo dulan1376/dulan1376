@@ -21,7 +21,7 @@
 
 
 ### :man_technologist: About Me :
-I am an aspiring Software Engineer <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBnM29oZGtkd20wN3RmeGtpcHIyMmkyaThhMHk0a3Fsb3U4dzZzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif)" width="30"> from Philippines.
+I am an aspiring Software Engineer from Philippines.
 - :telescope: I’m a 4th year graduating Major in Bachelors of Science in Computer Science.
 
 - :seedling: Exploring Data Science.
